@@ -1,8 +1,7 @@
 		
 # Student Homework Description Generator
 
-Author: Venkata (Kiriti) Vundavilli
-Email: kiriti.v@icloud.com
+Author: kiriti-v
 
 I went with a Convolutional Neural Network (CNN) and a Recurrent Neural Network (RNN) to generate the descriptions as this is a tried and tested approach for any preliminary result - which is what I was aiming for. The CNN acts as an encoder, extracting features from the images, while the RNN serves as a decoder, generating textual descriptions based on these features. There are of course different model choices that can be made, which are discussed in the **Potential Improvements** section below.
 
